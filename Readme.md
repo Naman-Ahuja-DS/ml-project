@@ -1,1 +1,1 @@
-## This is my learning ML project.
+## this is my first ml project
